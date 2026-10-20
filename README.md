@@ -2,12 +2,13 @@
 
 A step-by-step guide for developers, students, and open-source contributors who want to claim a promotional `.TECH` domain for their portfolio, personal website, or software projects.
 
+![Banner](images/banner.png)
+
 > **Important:** This offer is subject to eligibility requirements, promotional code availability, and the official terms. Confirm that the offer is still active and check the final checkout price before placing an order.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Repository Structure](#repository-structure)
 - [What Is the .TECH Domain Offer?](#what-is-the-tech-domain-offer)
 - [Why Get a Custom Domain?](#why-get-a-custom-domain)
 - [Prerequisites](#prerequisites)
