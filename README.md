@@ -1,4 +1,4 @@
-# How to Get a FREE .TECH Domain Through Hacktoberfest 2026
+# Claim a FREE .TECH Domain Through Hacktoberfest 2026
 
 A step-by-step guide for developers, students, and open-source contributors who want to claim a promotional `.TECH` domain for their portfolio, personal website, or software projects.
 
